@@ -767,9 +767,4 @@ div #commentBox {
 }
 .s-chat-message:nth-child(odd) {
 	background-color: rgba(0, 0, 10, 0.6);
-}
-.s-chat-message.hasContext {
-    filter: grayscale(90%) !important;
-	background-color: #ffffff !important;
-	border-left-color: rgba(0, 0, 0) !important;
-}
+
